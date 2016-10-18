@@ -1,0 +1,5 @@
+C:\Users\Damian\Desktop\tp_laboratorio_2\tp_laboratorio_2\Espinosa.Damian_2D\Producto\Producto\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\tp_laboratorio_2\tp_laboratorio_2\Espinosa.Damian_2D\Producto\Producto\bin\Debug\Producto.dll
+C:\Users\Damian\Desktop\tp_laboratorio_2\tp_laboratorio_2\Espinosa.Damian_2D\Producto\Producto\bin\Debug\Producto.pdb
+C:\Users\Damian\Desktop\tp_laboratorio_2\tp_laboratorio_2\Espinosa.Damian_2D\Producto\Producto\obj\Debug\Producto.dll
+C:\Users\Damian\Desktop\tp_laboratorio_2\tp_laboratorio_2\Espinosa.Damian_2D\Producto\Producto\obj\Debug\Producto.pdb

@@ -1,0 +1,8 @@
+C:\Users\Damian\Desktop\tp_laboratorio_2\tp_laboratorio_2\Espinosa.Damian_2D\Producto\TestEstante\bin\Release\TestEstante.exe.config
+C:\Users\Damian\Desktop\tp_laboratorio_2\tp_laboratorio_2\Espinosa.Damian_2D\Producto\TestEstante\bin\Release\TestEstante.exe
+C:\Users\Damian\Desktop\tp_laboratorio_2\tp_laboratorio_2\Espinosa.Damian_2D\Producto\TestEstante\bin\Release\TestEstante.pdb
+C:\Users\Damian\Desktop\tp_laboratorio_2\tp_laboratorio_2\Espinosa.Damian_2D\Producto\TestEstante\bin\Release\Producto.dll
+C:\Users\Damian\Desktop\tp_laboratorio_2\tp_laboratorio_2\Espinosa.Damian_2D\Producto\TestEstante\bin\Release\Producto.pdb
+C:\Users\Damian\Desktop\tp_laboratorio_2\tp_laboratorio_2\Espinosa.Damian_2D\Producto\TestEstante\obj\Release\TestEstante.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\tp_laboratorio_2\tp_laboratorio_2\Espinosa.Damian_2D\Producto\TestEstante\obj\Release\TestEstante.exe
+C:\Users\Damian\Desktop\tp_laboratorio_2\tp_laboratorio_2\Espinosa.Damian_2D\Producto\TestEstante\obj\Release\TestEstante.pdb
